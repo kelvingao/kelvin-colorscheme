@@ -11,6 +11,7 @@ if version > 580
 endif
 let g:colors_name = "kelvin"
 
+highlight Normal guifg=black guibg=#b7e8bd ctermfg=16 ctermbg=151
 highlight Comment guifg=#008000 ctermfg=28
 highlight Boolean guifg=#0000ff ctermfg=21
 highlight Constant guifg=#a000a0 ctermfg=127
