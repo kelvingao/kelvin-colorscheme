@@ -13,5 +13,6 @@ let g:colors_name = "kelvin"
 
 highlight Comment guifg=#008000 ctermfg=28
 highlight Boolean guifg=#0000ff ctermfg=21
+highlight Constant guifg=#a000a0 ctermfg=127
 
 highlight CursorLine guibg=#dddddd ctermbg=253 cterm=NONE
